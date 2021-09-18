@@ -1,0 +1,49 @@
+1 INTRODUCCION
+	- ordenar lo que tenemos
+
+2 METODO
+
+2.1 tipo de investigacion*
+
+2.2 nivel de investigacion*
+
+2.3 diseño de investigacion*
+
+2.4 poblacion, muestra y muestreo*
+
+2.5 variables
+	- lo tenemos
+
+2.6 tecnicas e instrumentos, validacion y confiabilidad
+	- lo tenemos
+
+2.7 metodo de analisis de datos
+	- ¿que programa usamos para los datos de la lista de cotejo? SPSS
+
+2.8 procedimiento**
+	- seguidilla de pasos: lo que _hipoteticamente_ hemos hecho para recopilar los datos (ir a entrevistar fisicamente a personas, no lo de verdad q hemos inventado)
+
+2.9 consideraciones eticas**
+	- ¿que conocemos para evitar el invento de datos?
+	- pruebas / garante : los datos estan documentados por la empresa empleadora, los datos han pasado por juicio de expertos
+
+3 ASPECTOS ADMINISTRATIVOS
+
+3.1 recursos y presupuesto**
+	- todos los costos
+
+3.2 financiamiento**
+	- flujo de caja
+
+3.3 cronograma de ejecucion
+	- diagrama de gantt; convencion de 6-8 meses
+
+¿CUAL ES LA TAREA?
+- cap 1: tarea que dejo en la SEM 11 para la SEM 12 [osea esta]
+- cap 2: tarea que dejaria en la SEM 12 para la SEM 13 [lunes 6]
+- cap 3: tarea que dejara en la SEM 13 para la SEM 14
+- SEM 14 [lunes 13]: asesorias
+- SEM 15 [lunes 20]: expocision
+
+* en las diapos
+** clase la SEM 13
